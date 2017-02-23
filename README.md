@@ -4,3 +4,5 @@
 Test Repo for C++ Russia 2017 Conference
 
 "Continuous Integration for C++ Developers" (https://github.com/sdukshis/cpp-russia-hello)
+
+zamazan4ik
