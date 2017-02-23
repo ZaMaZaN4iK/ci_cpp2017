@@ -1,6 +1,7 @@
 build:
 
 build_script:
+  - cd hello 
   - mkdir build && cd build
   - cmake -G "Visual Studio %TOOLCHAIN_VERSION% Win64" ..
   - cmake --build . --config %BUILD_TYPE%
